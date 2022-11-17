@@ -4,3 +4,4 @@ for j in range(5):
     print(j)
 for m in range(3):
     print(m)
+print("nice_try")
